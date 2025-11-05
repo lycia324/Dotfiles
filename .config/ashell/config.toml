@@ -1,0 +1,13 @@
+outputs = "All"
+
+[modules]
+left = ["WindowTitle"]
+center = ["MediaPlayer", ["Workspaces", "Clock"]]
+right = [["SystemInfo", "Tray"], "Settings"]
+
+[appearance]
+opacity = 0.65
+style = "Solid"
+
+[appearance.menu]
+opacity = 0.9
