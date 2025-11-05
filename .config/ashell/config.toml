@@ -5,6 +5,13 @@ left = ["WindowTitle"]
 center = ["MediaPlayer", ["Workspaces", "Clock"]]
 right = [["SystemInfo", "Tray"], "Settings"]
 
+[window_title]
+mode = "Title"
+truncate_title_after_length = 40
+
+[media_player]
+max_title_length = 30
+
 [appearance]
 opacity = 0.8
 style = "Solid"
