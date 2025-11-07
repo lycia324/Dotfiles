@@ -9,8 +9,8 @@ bold_italic_font auto
 tab_bar_edge top
 tab_bar_style fade
 
-background_opacity 0.45
-background_blur 1
+
+cursor_trail 1
 
 editor nvim
 shell fish
@@ -19,6 +19,6 @@ shell fish
 env EDITOR=nvim
 
 # BEGIN_KITTY_THEME
-# Catppuccin-Latte
+# Adwaita darker
 include current-theme.conf
 # END_KITTY_THEME

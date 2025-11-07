@@ -1,0 +1,3 @@
+
+monitor = eDP-1, 2560x1440@165, auto-left, 1.666666
+monitor = HDMI-0, 2560x1440@144, auto-right, 1.666666
