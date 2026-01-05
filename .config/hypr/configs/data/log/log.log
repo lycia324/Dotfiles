@@ -1,0 +1,77 @@
+[33mWARN[0m[2025-12-11 17:01:26] not enable search                            
+[GIN] 2025/12/11 - 17:01:53 | 200 |     150.791µs |       127.0.0.1 | GET      "/"
+[GIN] 2025/12/11 - 17:01:53 | 200 |     119.303µs |       127.0.0.1 | GET      "/assets/index-b206f97b.css"
+[GIN] 2025/12/11 - 17:01:53 | 200 |      58.979µs |       127.0.0.1 | GET      "/api/public/archive_extensions"
+[GIN] 2025/12/11 - 17:01:53 | 200 |     493.711µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:01:53 | 200 |     299.448µs |       127.0.0.1 | GET      "/api/me"
+[GIN] 2025/12/11 - 17:01:53 | 200 |      66.343µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:01:55 | 200 |     409.723µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:02:01 | 200 |     122.619µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:02:59 | 200 |      61.615µs |             ::1 | POST     "/api/admin/user/del_cache?username=admin"
+[GIN] 2025/12/11 - 17:03:09 | 200 |      54.582µs |       127.0.0.1 | GET      "/@login?redirect=%2F"
+[GIN] 2025/12/11 - 17:03:09 | 200 |      38.181µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:03:09 | 200 |      11.041µs |       127.0.0.1 | GET      "/api/public/archive_extensions"
+[GIN] 2025/12/11 - 17:03:09 | 200 |      56.635µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:03:10 | 200 |     109.404µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:03:19 | 200 |      46.437µs |             ::1 | POST     "/api/admin/user/del_cache?username=admin"
+[36mINFO[0m[2025-12-11 17:03:29] closing db                                   
+[33mWARN[0m[2025-12-11 17:03:36] not enable search                            
+[GIN] 2025/12/11 - 17:03:38 | 200 |     388.955µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:03:39 | 200 |      83.626µs |       127.0.0.1 | GET      "/@login?redirect=%2F"
+[GIN] 2025/12/11 - 17:03:39 | 200 |     300.821µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:03:39 | 200 |      32.049µs |       127.0.0.1 | GET      "/api/public/archive_extensions"
+[GIN] 2025/12/11 - 17:03:39 | 200 |       53.25µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:03:40 | 200 |     103.593µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:03:44 | 200 |     114.924µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:03:44 | 200 |      99.827µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:03:44 | 200 |     105.917µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:03:44 | 200 |     109.494µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:03:45 | 200 |     118.852µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:03:45 | 200 |     124.793µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:03:45 | 200 |     128.559µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[36mINFO[0m[2025-12-11 17:04:06] closing db                                   
+[33mWARN[0m[2025-12-11 17:04:19] not enable search                            
+[GIN] 2025/12/11 - 17:04:23 | 200 |      89.367µs |       127.0.0.1 | GET      "/@login?redirect=%2F"
+[GIN] 2025/12/11 - 17:04:24 | 200 |     427.006µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:04:24 | 200 |      33.262µs |       127.0.0.1 | GET      "/api/public/archive_extensions"
+[GIN] 2025/12/11 - 17:04:24 | 200 |      53.349µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:04:26 | 200 |     607.423µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:04:37 | 200 |     220.651µs |       127.0.0.1 | GET      "/api/me"
+[GIN] 2025/12/11 - 17:04:37 | 200 |      41.838µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:04:38 | 200 |      51.806µs |       127.0.0.1 | GET      "/api/me"
+[GIN] 2025/12/11 - 17:04:38 | 200 |      36.558µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:04:48 | 200 |     135.974µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:05:14 | 200 |      99.205µs |       127.0.0.1 | GET      "/"
+[GIN] 2025/12/11 - 17:05:14 | 200 |     136.755µs |       127.0.0.1 | GET      "/assets/index-b206f97b.css"
+[GIN] 2025/12/11 - 17:05:14 | 200 |    8.869538ms |       127.0.0.1 | GET      "/assets/index-dc050277.js"
+[GIN] 2025/12/11 - 17:05:14 | 200 |     110.045µs |       127.0.0.1 | GET      "/assets/entry-2db3d237.js"
+[GIN] 2025/12/11 - 17:05:14 | 200 |      44.643µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:05:14 | 200 |      12.934µs |       127.0.0.1 | GET      "/api/public/archive_extensions"
+[GIN] 2025/12/11 - 17:05:14 | 200 |      41.177µs |       127.0.0.1 | GET      "/api/me"
+[GIN] 2025/12/11 - 17:05:14 | 200 |      67.526µs |       127.0.0.1 | GET      "/assets/index-ecc0d373.js"
+[GIN] 2025/12/11 - 17:05:14 | 200 |      18.485µs |       127.0.0.1 | GET      "/assets/useTitle-6998e8fe.js"
+[GIN] 2025/12/11 - 17:05:14 | 200 |       37.58µs |       127.0.0.1 | GET      "/assets/webauthn-json.browser-ponyfill-f2f06d6e.js"
+[GIN] 2025/12/11 - 17:05:14 | 200 |      49.512µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:05:23 | 200 |      99.976µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:05:27 | 200 |     141.914µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[36mINFO[0m[2025-12-11 17:05:31] closing db                                   
+[33mWARN[0m[2025-12-11 17:07:03] not enable search                            
+[GIN] 2025/12/11 - 17:07:09 | 200 |      89.357µs |       127.0.0.1 | GET      "/@login?redirect=%2F"
+[GIN] 2025/12/11 - 17:07:09 | 200 |     536.521µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:07:09 | 200 |      55.975µs |       127.0.0.1 | GET      "/api/public/archive_extensions"
+[GIN] 2025/12/11 - 17:07:09 | 200 |      49.723µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:07:12 | 200 |     422.037µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[GIN] 2025/12/11 - 17:07:13 | 200 |     129.201µs |       127.0.0.1 | POST     "/api/auth/login/hash"
+[36mINFO[0m[2025-12-11 17:09:02] closing db                                   
+[33mWARN[0m[2025-12-11 17:09:24] not enable search                            
+[GIN] 2025/12/11 - 17:09:30 | 200 |     169.045µs |       127.0.0.1 | GET      "/@login?redirect=%2F"
+[GIN] 2025/12/11 - 17:09:30 | 200 |     375.601µs |       127.0.0.1 | GET      "/api/public/settings"
+[GIN] 2025/12/11 - 17:09:30 | 200 |      25.748µs |       127.0.0.1 | GET      "/api/public/archive_extensions"
+[GIN] 2025/12/11 - 17:09:30 | 200 |      56.575µs |       127.0.0.1 | GET      "/api/public/settings"
+[36mINFO[0m[2025-12-11 17:09:38] closing db                                   
+[33mWARN[0m[2025-12-11 17:10:07] not enable search                            
+[36mINFO[0m[2025-12-11 17:10:07] closing db                                   
+[33mWARN[0m[2025-12-11 17:10:30] not enable search                            
+[36mINFO[0m[2025-12-11 17:10:30] closing db                                   
+[33mWARN[0m[2025-12-11 17:11:44] not enable search                            
+[36mINFO[0m[2025-12-11 17:11:44] closing db                                   
